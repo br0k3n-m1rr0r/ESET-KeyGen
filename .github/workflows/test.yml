@@ -23,7 +23,7 @@ jobs:
           EMAIL_API=guerrillamail
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git clone --depth 1 https://github.com/rzc0d3r/ESET-KeyGen.git
+          git clone --depth 1 https://github.com/br0k3n-m1rr0r/ESET-KeyGen.git
           cd ESET-KeyGen
           # Setup env
           sudo apt update
